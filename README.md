@@ -1,1 +1,0 @@
-# Computer-spare-ordering-system-model
